@@ -1,0 +1,1472 @@
+
+--------- CMap Tools: Logging started on Thu Dec 21 11:27:15 COT 2023 --------
+
+CoreStarter: Initializing the Core.
+***>>I18N Warning: The language has not been loaded.
+I18NHelper :: setLocale (  )
+>>----Language Information-----<<
+
+_currentLanguage: es
+_currentRegion: 
+_currentLocale: es
+_systemLanguage: es
+_systemRegion: 
+--------------------------------------------------
+url == jar:file:/C:/Program%20Files/IHMC%20CmapTools/classes/core.jar!/core/util/splash.jpg
+IHMC Cmap Tools Version 6.04 
+Arguments: 
+   [0] modules.xml
+This system has the following properties:
+file.encoding.pkg: sun.io
+lax.user.dir: .
+lax.nl.env.HOMEPATH: \Users\aulainformatica
+lax.application.name: CmapTools.exe
+lax.nl.env.TEMP: C:\Users\AULAIN~1\AppData\Local\Temp
+lax.dir: C:\Program Files\IHMC CmapTools\bin\
+java.home: C:\Program Files\IHMC CmapTools\jre
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE: UNBOSQUE
+lax.nl.env.programfiles: C:\Program Files (x86)
+lax.nl.env.PROCESSOR_REVISION: 9702
+lax.nl.env.exact_case.Path: C:\app\Administrador\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\dotnet\;C:\Users\aulainformatica\AppData\Local\Microsoft\WindowsApps;
+lax.nl.env.exact_case.__COMPAT_LAYER: DetectorsAppHealth
+lax.nl.env.HOMEDRIVE: C:
+lax.nl.win32.microsoftvm.min.version: 2750
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE: x86
+sun.java2d.d3d: false
+lax.nl.env.OS: Windows_NT
+lax.main.class: core.util.CoreStarter
+java.endorsed.dirs: C:\Program Files\IHMC CmapTools\jre\lib\endorsed
+lax.stderr.redirect: 
+sun.java2d.noddraw: true
+lax.nl.env.systemroot: C:\Windows
+lax.nl.env.exact_case.AGSDESKTOPJAVA: C:\Program Files (x86)\ArcGIS\Desktop10.8\
+lax.nl.env.exact_case.SESSIONNAME: Console
+lax.nl.java.option.java.heap.size.max: 536870912
+lax.nl.env.SYSTEMDRIVE: C:
+lax.nl.env.exact_case.ProgramFiles: C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES: C:\Program Files (x86)
+sun.os.patch.level: 
+java.vendor.url: http://java.oracle.com/
+lax.nl.env.VBOX_MSI_INSTALL_PATH: C:\Program Files\Oracle\VirtualBox\
+java.version: 1.7.0_60
+lax.nl.env.WINDIR: C:\Windows
+lax.nl.env.programfiles(x86): C:\Program Files (x86)
+lax.nl.env.exact_case.USERNAME: aulainformatica
+lax.nl.env.__COMPAT_LAYER: DetectorsAppHealth
+lax.nl.env.userdomain_roamingprofile: UNBOSQUE
+lax.nl.env.logonserver: \\HARPE
+java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+lax.nl.env.homepath: \Users\aulainformatica
+lax.nl.env.exact_case.windir: C:\Windows
+lax.nl.env.COMSPEC: C:\Windows\system32\cmd.exe
+user.name: aulainformatica
+lax.nl.env.processor_architecture: x86
+sun.io.unicode.encoding: UnicodeLittle
+lax.nl.env.ALLUSERSPROFILE: C:\ProgramData
+sun.jnu.encoding: Cp1252
+java.runtime.name: Java(TM) SE Runtime Environment
+lax.nl.env.exact_case.: ::=::\
+lax.nl.env.USERDOMAIN: UNBOSQUE
+lax.nl.env.exact_case.PUBLIC: C:\Users\Public
+lax.nl.env.exact_case.OneDriveConsumer: C:\Users\aulainformatica\OneDrive
+java.specification.name: Java Platform API Specification
+user.timezone: America/Bogota
+user.script: 
+path.separator: ;
+lax.nl.env.onedriveconsumer: C:\Users\aulainformatica\OneDrive
+file.encoding: Cp1252
+lax.nl.env.systemdrive: C:
+lax.nl.env.ZES_ENABLE_SYSMAN: 1
+lax.nl.env.AGSDESKTOPJAVA: C:\Program Files (x86)\ArcGIS\Desktop10.8\
+lax.nl.env.USERNAME: aulainformatica
+lax.nl.env.PROGRAMDATA: C:\ProgramData
+lax.nl.env.allusersprofile: C:\ProgramData
+lax.nl.env.processor_revision: 9702
+sun.java.command: com.zerog.lax.LAX C:/Program Files/IHMC CmapTools/bin/CmapTools.lax C:/Users/aulainformatica/AppData/Local/Temp/laxB7E8.tmp
+lax.nl.env.exact_case.SystemRoot: C:\Windows
+lax.nl.env.exact_case.PSModulePath: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+lax.nl.env.vbox_msi_install_path: C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432: AMD64
+lax.nl.env.commonprogramw6432: C:\Program Files\Common Files
+lax.nl.env.PUBLIC: C:\Users\Public
+checkForMultipleAppInstances: true
+lax.version: 19.0
+lax.nl.env.USERDNSDOMAIN: UNBOSQUE.EDU.CO
+java.io.tmpdir: C:\Users\AULAIN~1\AppData\Local\Temp\
+lax.nl.env.username: aulainformatica
+lax.nl.env.exact_case.COMPUTERNAME: UBSCOBXXX-XX-
+user.language: es
+line.separator: 
+
+lax.nl.java.launcher.main.class: com.zerog.lax.LAX
+lax.nl.env.appdata: C:\Users\aulainformatica\AppData\Roaming
+lax.nl.env.commonprogramfiles(x86): C:\Program Files (x86)\Common Files
+lax.nl.env.windir: C:\Windows
+lax.command.line.args: modules.xml
+java.vm.info: mixed mode
+lax.nl.env.exact_case.TMP: C:\Users\AULAIN~1\AppData\Local\Temp
+lax.nl.env.exact_case.USERPROFILE: C:\Users\aulainformatica
+lax.nl.java.launcher.main.method: main
+sun.desktop: windows
+java.vm.specification.name: Java Virtual Machine Specification
+java.util.Arrays.useLegacyMergeSort: true
+lax.nl.current.vm: C:\Program Files\IHMC CmapTools\bin\..\jre\bin\javaw.exe
+lax.nl.env.exact_case.TEMP: C:\Users\AULAIN~1\AppData\Local\Temp
+lax.nl.env.os: Windows_NT
+lax.nl.env.PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+lax.nl.env.exact_case.ComSpec: C:\Windows\system32\cmd.exe
+lax.nl.env.commonprogramfiles: C:\Program Files (x86)\Common Files
+lax.nl.env.SESSIONNAME: Console
+lax.nl.env.exact_case.LOCALAPPDATA: C:\Users\aulainformatica\AppData\Local
+lax.nl.env.processor_identifier: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+lax.nl.env.SYSTEMROOT: C:\Windows
+lax.nl.env.programdata: C:\ProgramData
+lax.nl.env.zes_enable_sysman: 1
+lax.nl.env.processor_architew6432: AMD64
+lax.nl.env.NUMBER_OF_PROCESSORS: 20
+lax.nl.env.ONEDRIVECONSUMER: C:\Users\aulainformatica\OneDrive
+lax.nl.env.computername: UBSCOBXXX-XX-
+java.awt.printerjob: sun.awt.windows.WPrinterJob
+lax.root.install.dir: C:\Program Files\IHMC CmapTools
+lax.nl.env.: ::=::\
+lax.nl.env.exact_case.VBOX_MSI_INSTALL_PATH: C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.pathext: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.stdout.redirect: 
+lax.nl.env.exact_case.CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.USERDOMAIN: UNBOSQUE
+lax.nl.env.public: C:\Users\Public
+lax.nl.env.exact_case.HOMEDRIVE: C:
+os.name: Windows 8.1
+java.specification.vendor: Oracle Corporation
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE: UNBOSQUE
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+lax.nl.env.localappdata: C:\Users\aulainformatica\AppData\Local
+lax.nl.env.exact_case.PROCESSOR_REVISION: 9702
+lax.nl.env.homedrive: C:
+sun.awt.enableExtraMouseButtons: true
+lax.product.name: 
+java.library.path: ..\\lib
+lax.nl.env.exact_case.SystemDrive: C:
+java.class.version: 51.0
+lax.nl.env.sessionname: Console
+lax.nl.env.COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+lax.nl.env.ONEDRIVE: C:\Users\aulainformatica\OneDrive
+lax.nl.env.exact_case.PROCESSOR_LEVEL: 6
+lax.nl.env.driverdata: C:\Windows\System32\Drivers\DriverData
+lax.nl.env.COMPUTERNAME: UBSCOBXXX-XX-
+lax.nl.env.COMMONPROGRAMW6432: C:\Program Files\Common Files
+lax.nl.env.path: C:\app\Administrador\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\dotnet\;C:\Users\aulainformatica\AppData\Local\Microsoft\WindowsApps;
+lax.nl.env.agsdesktopjava: C:\Program Files (x86)\ArcGIS\Desktop10.8\
+sun.boot.library.path: C:\Program Files\IHMC CmapTools\jre\bin
+lax.nl.env.number_of_processors: 20
+lax.nl.env.onedrive: C:\Users\aulainformatica\OneDrive
+sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+lax.nl.env.PATH: C:\app\Administrador\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\dotnet\;C:\Users\aulainformatica\AppData\Local\Microsoft\WindowsApps;
+java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+user.variant: 
+lax.nl.env.PROCESSOR_ARCHITECTURE: x86
+lax.nl.env.exact_case.CommonProgramW6432: C:\Program Files\Common Files
+lax.nl.env.TMP: C:\Users\AULAIN~1\AppData\Local\Temp
+lax.nl.env.exact_case.LOGONSERVER: \\HARPE
+lax.nl.env.exact_case.ZES_ENABLE_SYSMAN: 1
+lax.nl.env.processor_level: 6
+lax.class.path: ../classes;../classes/core.jar;../classes/nlk.jar;../classes/slp.jar;../classes/activation.jar;../classes/JimiProClasses.zip;../classes/mail.jar;../classes/symantec.jar;../classes/jniregistry.jar;../classes/socks.jar;../classes/AppleStubs.jar;../classes/wsServer-client.jar;../classes/xercesImpl.jar;../classes/xml-apis.jar;../classes/tm-extractors-0.4.jar;../classes/concurrent.jar;../classes/wordnetClient.jar;../classes/winlaf-0.5.jar;../classes/poi-scratchpad-2.5.1-final-20040804.jar;../classes/poi-contrib-2.5.1-final-20040804.jar;../classes/commons-digester.jar;../classes/commons-collections.jar;../classes/commons-beanutils.jar;../classes/commons-beanutils-core.jar;../classes/commons-beanutils-bean-collections.jar;../classes/PDFBox-0.7.3-dev.jar;../classes/FontBox-0.1.0-dev.jar;../classes/log4j-1.2.12.jar;../classes/poi-2.5.1-final-20040804.jar;../classes/jmyspell-1.0.0-beta1.jar;../classes/ldapbp.jar;../classes/commons-logging.jar;../classes/mscrypto.jar;../classes/wstx-asl-2.9.3.jar;../classes/stax-api-1.0.jar;../classes/axiom-impl.jar;../classes/axiom-api.jar;../classes/lucene-core-2.4-dev.jar;../classes/openide-lookup-1.9-patched-1.0.jar;../classes/jdom-1.0.jar;../classes/jas-plotter-2.2.jar;../classes/commons-io-2.2.jar;../classes/commons-codec-1.6.jar;../classes/freehep-io-2.2.2.jar;../classes/freehep-graphicsio-swf-2.3.jar;../classes/freehep-graphicsio-svg-2.3.jar;../classes/freehep-graphicsio-ps-2.3.jar;../classes/freehep-graphicsio-pdf-2.3.jar;../classes/freehep-graphicsio-java-2.3.jar;../classes/freehep-graphicsio-emf-2.3.jar;../classes/freehep-graphicsio-2.3.jar;../classes/freehep-graphicsbase-2.3.jar;../classes/freehep-graphics2d-2.3.jar;../classes/java-json.jar;lax.jar
+lax.nl.env.comspec: C:\Windows\system32\cmd.exe
+lax.nl.env.LOCALAPPDATA: C:\Users\aulainformatica\AppData\Local
+lax.nl.env.USERPROFILE: C:\Users\aulainformatica
+lax.nl.env.tmp: C:\Users\AULAIN~1\AppData\Local\Temp
+java.vm.specification.version: 1.7
+lax.main.method: main
+lax.nl.java.option.additional: -Djava.util.Arrays.useLegacyMergeSort=true -Djava.library.path=..\lib -DcheckForMultipleAppInstances=true -Dsun.java2d.d3d=false -Dsun.java2d.noddraw=true
+lax.nl.java.option.java.heap.size.initial: 268435456
+awt.toolkit: sun.awt.windows.WToolkit
+sun.cpu.isalist: amd64
+java.ext.dirs: C:\Program Files\IHMC CmapTools\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+os.version: 6.3
+lax.nl.env.exact_case.OS: Windows_NT
+user.home: C:\Users\aulainformatica
+lax.nl.win32.java.launcher.platform: 0
+java.vm.vendor: Oracle Corporation
+lax.nl.env.COMMONPROGRAMFILES: C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.ProgramData: C:\ProgramData
+lax.nl.env.exact_case.APPDATA: C:\Users\aulainformatica\AppData\Roaming
+lax.nl.env.exact_case.CommonProgramFiles: C:\Program Files (x86)\Common Files
+lax.stdin.redirect: 
+lax.nl.env.psmodulepath: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+user.dir: C:\Program Files\IHMC CmapTools\bin
+lax.nl.env.exact_case.DriverData: C:\Windows\System32\Drivers\DriverData
+lax.nl.valid.vm.list: 1.7+
+lax.nl.env.__compat_layer: DetectorsAppHealth
+sun.cpu.endian: little
+lax.nl.env.APPDATA: C:\Users\aulainformatica\AppData\Roaming
+java.vm.version: 24.60-b09
+lax.nl.env.exact_case.USERDNSDOMAIN: UNBOSQUE.EDU.CO
+java.class.path: C:\Program Files\IHMC CmapTools\classes;C:\Program Files\IHMC CmapTools\classes\core.jar;C:\Program Files\IHMC CmapTools\classes\nlk.jar;C:\Program Files\IHMC CmapTools\classes\slp.jar;C:\Program Files\IHMC CmapTools\classes\activation.jar;C:\Program Files\IHMC CmapTools\classes\JimiProClasses.zip;C:\Program Files\IHMC CmapTools\classes\mail.jar;C:\Program Files\IHMC CmapTools\classes\symantec.jar;C:\Program Files\IHMC CmapTools\classes\jniregistry.jar;C:\Program Files\IHMC CmapTools\classes\socks.jar;C:\Program Files\IHMC CmapTools\classes\AppleStubs.jar;C:\Program Files\IHMC CmapTools\classes\wsServer-client.jar;C:\Program Files\IHMC CmapTools\classes\xercesImpl.jar;C:\Program Files\IHMC CmapTools\classes\xml-apis.jar;C:\Program Files\IHMC CmapTools\classes\tm-extractors-0.4.jar;C:\Program Files\IHMC CmapTools\classes\concurrent.jar;C:\Program Files\IHMC CmapTools\classes\wordnetClient.jar;C:\Program Files\IHMC CmapTools\classes\winlaf-0.5.jar;C:\Program Files\IHMC CmapTools\classes\poi-scratchpad-2.5.1-final-20040804.jar;C:\Program Files\IHMC CmapTools\classes\poi-contrib-2.5.1-final-20040804.jar;C:\Program Files\IHMC CmapTools\classes\commons-digester.jar;C:\Program Files\IHMC CmapTools\classes\commons-collections.jar;C:\Program Files\IHMC CmapTools\classes\commons-beanutils.jar;C:\Program Files\IHMC CmapTools\classes\commons-beanutils-core.jar;C:\Program Files\IHMC CmapTools\classes\commons-beanutils-bean-collections.jar;C:\Program Files\IHMC CmapTools\classes\PDFBox-0.7.3-dev.jar;C:\Program Files\IHMC CmapTools\classes\FontBox-0.1.0-dev.jar;C:\Program Files\IHMC CmapTools\classes\log4j-1.2.12.jar;C:\Program Files\IHMC CmapTools\classes\poi-2.5.1-final-20040804.jar;C:\Program Files\IHMC CmapTools\classes\jmyspell-1.0.0-beta1.jar;C:\Program Files\IHMC CmapTools\classes\ldapbp.jar;C:\Program Files\IHMC CmapTools\classes\commons-logging.jar;C:\Program Files\IHMC CmapTools\classes\mscrypto.jar;C:\Program Files\IHMC CmapTools\classes\wstx-asl-2.9.3.jar;C:\Program Files\IHMC CmapTools\classes\stax-api-1.0.jar;C:\Program Files\IHMC CmapTools\classes\axiom-impl.jar;C:\Program Files\IHMC CmapTools\classes\axiom-api.jar;C:\Program Files\IHMC CmapTools\classes\lucene-core-2.4-dev.jar;C:\Program Files\IHMC CmapTools\classes\openide-lookup-1.9-patched-1.0.jar;C:\Program Files\IHMC CmapTools\classes\jdom-1.0.jar;C:\Program Files\IHMC CmapTools\classes\jas-plotter-2.2.jar;C:\Program Files\IHMC CmapTools\classes\commons-io-2.2.jar;C:\Program Files\IHMC CmapTools\classes\commons-codec-1.6.jar;C:\Program Files\IHMC CmapTools\classes\freehep-io-2.2.2.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-swf-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-svg-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-ps-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-pdf-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-java-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-emf-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsio-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphicsbase-2.3.jar;C:\Program Files\IHMC CmapTools\classes\freehep-graphics2d-2.3.jar;C:\Program Files\IHMC CmapTools\classes\java-json.jar;C:\Program Files\IHMC CmapTools\bin\lax.jar;
+os.arch: amd64
+lax.nl.env.userprofile: C:\Users\aulainformatica
+lax.product.version: 
+lax.nl.env.userdnsdomain: UNBOSQUE.EDU.CO
+lax.nl.env.userdomain: UNBOSQUE
+lax.nl.env.PROCESSOR_LEVEL: 6
+sun.java.launcher: SUN_STANDARD
+lax.nl.env.PROCESSOR_ARCHITEW6432: AMD64
+lax.nl.env.exact_case.HOMEPATH: \Users\aulainformatica
+java.vm.specification.vendor: Oracle Corporation
+file.separator: \
+lax.nl.env.exact_case.OneDrive: C:\Users\aulainformatica\OneDrive
+lax.nl.env.exact_case.PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+java.runtime.version: 1.7.0_60-b19
+sun.boot.class.path: C:\Program Files\IHMC CmapTools\jre\lib\resources.jar;C:\Program Files\IHMC CmapTools\jre\lib\rt.jar;C:\Program Files\IHMC CmapTools\jre\lib\sunrsasign.jar;C:\Program Files\IHMC CmapTools\jre\lib\jsse.jar;C:\Program Files\IHMC CmapTools\jre\lib\jce.jar;C:\Program Files\IHMC CmapTools\jre\lib\charsets.jar;C:\Program Files\IHMC CmapTools\jre\lib\jfr.jar;C:\Program Files\IHMC CmapTools\jre\classes
+lax.company.name: 
+lax.nl.env.exact_case.ALLUSERSPROFILE: C:\ProgramData
+lax.copyright: 
+lax.nl.env.PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+lax.nl.env.programw6432: C:\Program Files
+lax.nl.env.DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+user.country: CO
+lax.nl.env.PROGRAMFILES(X86): C:\Program Files (x86)
+lax.nl.env.PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.PROGRAMW6432: C:\Program Files
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS: 20
+lax.nl.env.exact_case.ProgramFiles(x86): C:\Program Files (x86)
+java.vendor: Oracle Corporation
+lax.file.description: 
+lax.nl.env.exact_case.ProgramW6432: C:\Program Files
+lax.nl.env.LOGONSERVER: \\HARPE
+lax.nl.env.temp: C:\Users\AULAIN~1\AppData\Local\Temp
+java.specification.version: 1.7
+sun.arch.data.model: 64
+
+CoreStarter Main()
+CoreStarter::loadModuleFile: xmlFile == modules.xml
+CMapSettings::<init>: Startup Dir: C:\Program Files\IHMC CmapTools\bin
+CMapSettings::<init>: Path to config file: C:\Program Files\IHMC CmapTools\bin\cmaptools.cfg
+osName = Windows 8.1
+osNameSub = Win
+_iOSType = 1
+CMapSettings::<init>: Will not attempt to delete the user's profile or the passwords file.
+CMapSettings::loadXmlProfile: _cmsHelper == nlk.util.CMapSettingsHelper@57e1ff86
+CMapSettings::loadXmlProfile: _cmsHelper.getWorkingDirectory() == C:\Users\aulainformatica\AppData\Roaming\CmapTools
+CMapSettings::loadXmlProfile: Apparently the profile directory doesn't exist.
+File 'C:\Users\aulainformatica\AppData\Roaming\CmapTools\profile.xml' does not exist. It will be created.
+CMapSettings::updateTransientValueOfRootFolder: The string for key server.rootfolder is C:\Users\aulainformatica\Documents\My Cmaps
+CMapSettings::updateTransientValueOfRootFolder: We have changed it to C:\Users\aulainformatica\Documents\My Cmaps
+CMapSettings::loadXmlProfile:  returning.
+CMapSettings::updateTransientValueOfRootFolder: The string for key server.rootfolder is C:\Users\aulainformatica\Documents\My Cmaps
+CMapSettings::updateTransientValueOfRootFolder: We have changed it to C:\Users\aulainformatica\Documents\My Cmaps
+CMapSettings::<init>: After calling remove, get (root.folder.password) returned null
+I18NHelper :: setLocale ( null )
+>>----Language Information-----<<
+
+_currentLanguage: es
+_currentRegion: 
+_currentLocale: es
+_systemLanguage: es
+_systemRegion: 
+--------------------------------------------------
+LocaleList::save: caching Locale list to 'C:\Users\aulainformatica\AppData\Roaming\CmapTools\locales.cache'
+CoreStarter::loadModuleFile: ********** Done with loadModuleFile
+--------------------------------------
+Loading the following modules:
+BasicMod
+NestedNodes
+Autolayout
+CMap Editing Module
+CMapKeyboardTraversalMod
+CMap Rendering Module
+Cmap Viewer Module
+CMapPropositionMod
+Cmap Export Module
+CMap Printing Module
+Image Export Module
+Document Export Module
+CMapEventLogMod
+Folder Browser Module
+Import Resource Module
+Profile Module
+Help Module
+Resource Lock Module
+Resource Manager
+Resource Viewer Factory Module
+Default Resource Viewer Module
+SpellCheckerMod
+Style Sheet Module
+Resource Toolbar
+Navigation Tool Module
+CXL Save/Load Module
+XML Save/Load Module
+IVML Import/Export Module
+Modulo de Guardar Automáticamente
+PlaceManager
+Resource Indexing Module
+Search
+Link Validator Module
+Discussion Threads Client Module
+HTMLExportMod
+CommentMod
+Find Tool Module
+TripleMod
+AnnotateMod
+CollaborationMod
+CMapSidePanelMod
+Network Configuration Module
+Cmap Comparison Module
+Presentation Module
+mapHistoryMod
+wordnetMod
+BigChangesMod
+Locale Module
+Soup Client Module
+Soup Editor Module
+ListViewMod
+SearchView
+--------------------------------------
+Calling nlk.basic.BasicMod.initialize()
+OSFileListener: created server socket on port 4450
+OSFileListener >> will check for multiple instances of the application.
+MultipleAppInstancesManager: starting up
+MultipleAppInstancesManager: trying to lock the file [C:\Users\aulainformatica\AppData\Roaming\CmapTools\.cmaptools.lock]
+MultipleAppInstancesManager: acquired the lock on the file. Application is allowed to run.
+MIMETypeFileInfoMapper: load (persistent == false)
+mimeTypeMapper: adding x-nlk-project/x-binary ''
+mimeTypeMapper: adding x-nlk-project/x-nlk-knowledgemodel ''
+mimeTypeMapper: adding x-nlk-project/x-place ''
+mimeTypeMapper: adding x-soup/x-storable '.soup'
+mimeTypeMapper: adding x-compositeHTML/x-storable '.chtm'
+mimeTypeMapper: adding x-cmap/x-storable '.cmap'
+mimeTypeMapper: adding x-cmap/x-storable '.mpt'
+mimeTypeMapper: adding application/cmap+xml '.cxl'
+mimeTypeMapper: adding text/html '.htm'
+mimeTypeMapper: adding text/html '.html'
+mimeTypeMapper: adding text/plain '.txt'
+mimeTypeMapper: adding text/plain '.text'
+mimeTypeMapper: adding application/rtf '.rtf'
+mimeTypeMapper: adding text/x-url '.url'
+mimeTypeMapper: adding text/xml '.xml'
+mimeTypeMapper: adding image/x-bmp '.bmp'
+mimeTypeMapper: adding image/x-png '.png'
+mimeTypeMapper: adding image/gif '.gif'
+mimeTypeMapper: adding image/jpeg '.jpg'
+mimeTypeMapper: adding image/jpeg '.jpeg'
+mimeTypeMapper: adding image/tiff '.tif'
+mimeTypeMapper: adding image/tiff '.tiff'
+mimeTypeMapper: adding image/pict '.pct'
+mimeTypeMapper: adding image/pict '.pict'
+mimeTypeMapper: adding video/mpeg '.mpg'
+mimeTypeMapper: adding video/mpeg '.mpe'
+mimeTypeMapper: adding video/mpeg '.mpeg'
+mimeTypeMapper: adding video/quicktime '.mov'
+mimeTypeMapper: adding video/quicktime '.qt'
+mimeTypeMapper: adding video/quicktime '.qtl'
+mimeTypeMapper: adding video/x-msvideo '.avi'
+mimeTypeMapper: adding video/x-ms-asf '.asf'
+mimeTypeMapper: adding video/x-ms-asx '.asx'
+mimeTypeMapper: adding video/x-ms-wmv '.wmv'
+mimeTypeMapper: adding video/x-ms-wmv '.wvx'
+mimeTypeMapper: adding video/mp4 '.mp4'
+mimeTypeMapper: adding video/mp4 '.m4p'
+mimeTypeMapper: adding video/x-m4v '.m4v'
+mimeTypeMapper: adding audio/mp4 '.mp4'
+mimeTypeMapper: adding audio/mp4 '.aac'
+mimeTypeMapper: adding audio/basic '.au'
+mimeTypeMapper: adding audio/basic '.snd'
+mimeTypeMapper: adding audio/midi '.kar'
+mimeTypeMapper: adding audio/midi '.mid'
+mimeTypeMapper: adding audio/midi '.midi'
+mimeTypeMapper: adding audio/x-wav '.wav'
+mimeTypeMapper: adding audio/mpeg '.mp3'
+mimeTypeMapper: adding audio/wma '.wma'
+mimeTypeMapper: adding audio/mpeg '.mpga'
+mimeTypeMapper: adding audio/mpeg '.mp2'
+mimeTypeMapper: adding x-cdt/x-mbx '.cdt'
+mimeTypeMapper: adding application/msword '.doc'
+mimeTypeMapper: adding application/x-shockwave-flash '.swf'
+mimeTypeMapper: adding application/pdf '.pdf'
+mimeTypeMapper: adding application/vnd.ms-excel '.xls'
+mimeTypeMapper: adding application/vnd.ms-powerpoint '.ppt'
+mimeTypeMapper: adding application/vnd.ms-pps '.pps'
+mimeTypeMapper: adding x-cmapstylesheet/x-storable '.cmss'
+mimeTypeMapper: adding x-cmapstylesheetgroup/x-storable '.cmsg'
+mimeTypeMapper: adding x-nlk-alias/x-storable '.alias'
+mimeTypeMapper: adding x-exec/exe '.exe'
+mimeTypeMapper: adding x-exec/com '.com'
+mimeTypeMapper: adding x-exec/bat '.bat'
+mimeTypeMapper: adding x-exec/cmd '.cmd'
+mimeTypeMapper: adding x-exec/bin '.bin'
+mimeTypeMapper: adding x-exec/sh '.sh'
+mimeTypeMapper: adding x-exec/app '.app'
+mimeTypeMapper: adding x-inst/x-storable '.inst'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.text '.odt'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.spreadsheet '.ods'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.presentation '.odp'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.graphics '.odg'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.chart '.odc'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.formula '.odf'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.database '.odb'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.image '.odi'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.text-master '.odm'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.text-template '.ott'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.spreadsheet-template '.ots'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.presentation-template '.otp'
+mimeTypeMapper: adding application/vnd.oasis.opendocument.graphics-template '.otg'
+mimeTypeMapper: adding application/zip '.zip'
+mimeTypeMapper: adding application/vnd.ms-word.document.macroEnabled.12 '.docm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.wordprocessingml.document '.docx'
+mimeTypeMapper: adding application/vnd.ms-word.template.macroEnabled.12 '.dotm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.wordprocessingml.template '.dotx'
+mimeTypeMapper: adding application/vnd.ms-powerpoint.template.macroEnabled.12 '.potm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.presentationml.template '.potx'
+mimeTypeMapper: adding application/vnd.ms-powerpoint.addin.macroEnabled.12 '.ppam'
+mimeTypeMapper: adding application/vnd.ms-powerpoint.slideshow.macroEnabled.12 '.ppsm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.presentationml.slideshow '.ppsx'
+mimeTypeMapper: adding application/vnd.ms-powerpoint.presentation.macroEnabled.12 '.pptm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.presentationml.presentation '.pptx'
+mimeTypeMapper: adding application/vnd.ms-excel.addin.macroEnabled.12 '.xlam'
+mimeTypeMapper: adding application/vnd.ms-excel.sheet.binary.macroEnabled.12 '.xlsb'
+mimeTypeMapper: adding application/vnd.ms-excel.sheet.macroEnabled.12 '.xlsm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.spreadsheetml.sheet '.xlsx'
+mimeTypeMapper: adding application/vnd.ms-excel.template.macroEnabled.12 '.xltm'
+mimeTypeMapper: adding application/vnd.openxmlformats-officedocument.spreadsheetml.template '.xltx'
+mimeTypeMapper: adding application/com.apple.pages.pages '.pages'
+mimeTypeMapper: adding application/com.apple.numbers.numbers '.numbers'
+mimeTypeMapper: adding application/com.apple.keynote.key '.key'
+Calling nlk.bigNodes.BigNodesMod.initialize()
+Calling nlk.autolayout.AutolayoutMod.initialize()
+Calling nlk.cmap.CMapEditMod.initialize()
+Calling nlk.cmap.CMapKeyboardTraversalMod.initialize()
+Calling nlk.cmap.CMapRenderMod.initialize()
+Calling nlk.cmap.CMapViewerMod.initialize()
+Calling nlk.cmap.CMapPropositionMod.initialize()
+Calling nlk.cmap.CMapExportMod.initialize()
+Calling nlk.cmap.CMapPrintingMod.initialize()
+Calling nlk.export.ImageExportMod.initialize()
+Calling nlk.export.DocumentExportMod.initialize()
+Calling nlk.cmapEventLog.CMapEventLogMod.initialize()
+Calling nlk.folderBrowser.FolderBrowserMod.initialize()
+Calling nlk.importResource.ImportResourceMod.initialize()
+Calling nlk.profile.ProfileMod.initialize()
+Calling nlk.help.HelpMod.initialize()
+Calling nlk.resourceLockMod.ResourceLockMod.initialize()
+Calling nlk.resourceManager.ResourceManagerMod.initialize()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.initialize()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.initialize()
+Calling nlk.spellChecker.SpellCheckerMod.initialize()
+Calling nlk.styleSheets.StyleSheetMod.initialize()
+Calling nlk.history.HistoryMod.initialize()
+Calling nlk.navtool.CMapNavToolMod.initialize()
+Calling nlk.xml.CXLMod.initialize()
+Calling nlk.xml.XMLMod.initialize()
+Calling nlk.xml.IVMLMod.initialize()
+Calling nlk.autosave.AutoSaveMod.initialize()
+Calling nlk.placeManager.PlaceManagerMod.initialize()
+Calling nlk.indexer.IndexerMod.initialize()
+
+
+***>>> Using an existing bundle : nlk.indexer.encodings.Resources
+
+
+Calling nlk.indexer.SearchMod.initialize()
+Calling nlk.linkvalidator.LinkValidatorMod.initialize()
+Calling nlk.dtclient.DTClientMod.initialize()
+Calling nlk.htmlexport.HTMLExportMod.initialize()
+Calling nlk.comment.CommentMod.initialize()
+Calling nlk.findTool.FindToolMod.initialize()
+Calling nlk.triple.TripleMod.initialize()
+Calling nlk.annotate.AnnotateMod.initialize()
+Calling nlk.synCollab.client.CollaborationMod.initialize()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.initialize()
+Calling nlk.netConfig.NetConfigMod.initialize()
+Calling nlk.compare.CompareMod.initialize()
+Calling nlk.presentation.PresentationMod.initialize()
+Calling nlk.mapHistory.MapHistoryMod.initialize()
+Calling nlk.wordnet.wordnetMod.WordnetMod.initialize()
+Calling nlk.bigChanges.BigChangesMod.initialize()
+Calling nlk.locale.LocaleMod.initialize()
+Calling nlk.soup.client.SoupClientMod.initialize()
+Calling nlk.soup.editor.SoupEditorMod.initialize()
+Calling nlk.listView.ListViewMod.initialize()
+Calling nlk.searchView.SearchViewMod.initialize()
+--------------------------------------
+Calling nlk.basic.BasicMod.registerDSTypes()
+Calling nlk.bigNodes.BigNodesMod.registerDSTypes()
+Calling nlk.autolayout.AutolayoutMod.registerDSTypes()
+Calling nlk.cmap.CMapEditMod.registerDSTypes()
+Calling nlk.cmap.CMapKeyboardTraversalMod.registerDSTypes()
+Calling nlk.cmap.CMapRenderMod.registerDSTypes()
+Calling nlk.cmap.CMapViewerMod.registerDSTypes()
+Calling nlk.cmap.CMapPropositionMod.registerDSTypes()
+Calling nlk.cmap.CMapExportMod.registerDSTypes()
+Calling nlk.cmap.CMapPrintingMod.registerDSTypes()
+Calling nlk.export.ImageExportMod.registerDSTypes()
+Calling nlk.export.DocumentExportMod.registerDSTypes()
+Calling nlk.cmapEventLog.CMapEventLogMod.registerDSTypes()
+Calling nlk.folderBrowser.FolderBrowserMod.registerDSTypes()
+Calling nlk.importResource.ImportResourceMod.registerDSTypes()
+Calling nlk.profile.ProfileMod.registerDSTypes()
+Calling nlk.help.HelpMod.registerDSTypes()
+Calling nlk.resourceLockMod.ResourceLockMod.registerDSTypes()
+Calling nlk.resourceManager.ResourceManagerMod.registerDSTypes()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.registerDSTypes()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.registerDSTypes()
+Calling nlk.spellChecker.SpellCheckerMod.registerDSTypes()
+Calling nlk.styleSheets.StyleSheetMod.registerDSTypes()
+Calling nlk.history.HistoryMod.registerDSTypes()
+Calling nlk.navtool.CMapNavToolMod.registerDSTypes()
+Calling nlk.xml.CXLMod.registerDSTypes()
+Calling nlk.xml.XMLMod.registerDSTypes()
+Calling nlk.xml.IVMLMod.registerDSTypes()
+Calling nlk.autosave.AutoSaveMod.registerDSTypes()
+Calling nlk.placeManager.PlaceManagerMod.registerDSTypes()
+Calling nlk.indexer.IndexerMod.registerDSTypes()
+Calling nlk.indexer.SearchMod.registerDSTypes()
+Calling nlk.linkvalidator.LinkValidatorMod.registerDSTypes()
+Calling nlk.dtclient.DTClientMod.registerDSTypes()
+Calling nlk.htmlexport.HTMLExportMod.registerDSTypes()
+Calling nlk.comment.CommentMod.registerDSTypes()
+Calling nlk.findTool.FindToolMod.registerDSTypes()
+Calling nlk.triple.TripleMod.registerDSTypes()
+Calling nlk.annotate.AnnotateMod.registerDSTypes()
+Calling nlk.synCollab.client.CollaborationMod.registerDSTypes()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.registerDSTypes()
+Calling nlk.netConfig.NetConfigMod.registerDSTypes()
+Calling nlk.compare.CompareMod.registerDSTypes()
+Calling nlk.presentation.PresentationMod.registerDSTypes()
+Calling nlk.mapHistory.MapHistoryMod.registerDSTypes()
+Calling nlk.wordnet.wordnetMod.WordnetMod.registerDSTypes()
+Calling nlk.bigChanges.BigChangesMod.registerDSTypes()
+Calling nlk.locale.LocaleMod.registerDSTypes()
+Calling nlk.soup.client.SoupClientMod.registerDSTypes()
+Calling nlk.soup.editor.SoupEditorMod.registerDSTypes()
+Calling nlk.listView.ListViewMod.registerDSTypes()
+Calling nlk.searchView.SearchViewMod.registerDSTypes()
+--------------------------------------
+Calling nlk.basic.BasicMod.registerPopupTypes()
+Calling nlk.bigNodes.BigNodesMod.registerPopupTypes()
+Calling nlk.autolayout.AutolayoutMod.registerPopupTypes()
+Calling nlk.cmap.CMapEditMod.registerPopupTypes()
+Calling nlk.cmap.CMapKeyboardTraversalMod.registerPopupTypes()
+Calling nlk.cmap.CMapRenderMod.registerPopupTypes()
+Calling nlk.cmap.CMapViewerMod.registerPopupTypes()
+Calling nlk.cmap.CMapPropositionMod.registerPopupTypes()
+Calling nlk.cmap.CMapExportMod.registerPopupTypes()
+Calling nlk.cmap.CMapPrintingMod.registerPopupTypes()
+Calling nlk.export.ImageExportMod.registerPopupTypes()
+Calling nlk.export.DocumentExportMod.registerPopupTypes()
+Calling nlk.cmapEventLog.CMapEventLogMod.registerPopupTypes()
+Calling nlk.folderBrowser.FolderBrowserMod.registerPopupTypes()
+Calling nlk.importResource.ImportResourceMod.registerPopupTypes()
+Calling nlk.profile.ProfileMod.registerPopupTypes()
+Calling nlk.help.HelpMod.registerPopupTypes()
+Calling nlk.resourceLockMod.ResourceLockMod.registerPopupTypes()
+Calling nlk.resourceManager.ResourceManagerMod.registerPopupTypes()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.registerPopupTypes()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.registerPopupTypes()
+Calling nlk.spellChecker.SpellCheckerMod.registerPopupTypes()
+Calling nlk.styleSheets.StyleSheetMod.registerPopupTypes()
+Calling nlk.history.HistoryMod.registerPopupTypes()
+Calling nlk.navtool.CMapNavToolMod.registerPopupTypes()
+Calling nlk.xml.CXLMod.registerPopupTypes()
+Calling nlk.xml.XMLMod.registerPopupTypes()
+Calling nlk.xml.IVMLMod.registerPopupTypes()
+Calling nlk.autosave.AutoSaveMod.registerPopupTypes()
+Calling nlk.placeManager.PlaceManagerMod.registerPopupTypes()
+Calling nlk.indexer.IndexerMod.registerPopupTypes()
+Calling nlk.indexer.SearchMod.registerPopupTypes()
+Calling nlk.linkvalidator.LinkValidatorMod.registerPopupTypes()
+Calling nlk.dtclient.DTClientMod.registerPopupTypes()
+Calling nlk.htmlexport.HTMLExportMod.registerPopupTypes()
+Calling nlk.comment.CommentMod.registerPopupTypes()
+Calling nlk.findTool.FindToolMod.registerPopupTypes()
+Calling nlk.triple.TripleMod.registerPopupTypes()
+Calling nlk.annotate.AnnotateMod.registerPopupTypes()
+Calling nlk.synCollab.client.CollaborationMod.registerPopupTypes()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.registerPopupTypes()
+Calling nlk.netConfig.NetConfigMod.registerPopupTypes()
+Calling nlk.compare.CompareMod.registerPopupTypes()
+Calling nlk.presentation.PresentationMod.registerPopupTypes()
+Calling nlk.mapHistory.MapHistoryMod.registerPopupTypes()
+Calling nlk.wordnet.wordnetMod.WordnetMod.registerPopupTypes()
+Calling nlk.bigChanges.BigChangesMod.registerPopupTypes()
+Calling nlk.locale.LocaleMod.registerPopupTypes()
+Calling nlk.soup.client.SoupClientMod.registerPopupTypes()
+Calling nlk.soup.editor.SoupEditorMod.registerPopupTypes()
+Calling nlk.listView.ListViewMod.registerPopupTypes()
+Calling nlk.searchView.SearchViewMod.registerPopupTypes()
+--------------------------------------
+Calling nlk.basic.BasicMod.addMenus()
+Calling nlk.bigNodes.BigNodesMod.addMenus()
+Calling nlk.autolayout.AutolayoutMod.addMenus()
+Calling nlk.cmap.CMapEditMod.addMenus()
+Calling nlk.cmap.CMapKeyboardTraversalMod.addMenus()
+Calling nlk.cmap.CMapRenderMod.addMenus()
+Calling nlk.cmap.CMapViewerMod.addMenus()
+Calling nlk.cmap.CMapPropositionMod.addMenus()
+Calling nlk.cmap.CMapExportMod.addMenus()
+Calling nlk.cmap.CMapPrintingMod.addMenus()
+Calling nlk.export.ImageExportMod.addMenus()
+Calling nlk.export.DocumentExportMod.addMenus()
+Calling nlk.cmapEventLog.CMapEventLogMod.addMenus()
+Calling nlk.folderBrowser.FolderBrowserMod.addMenus()
+Calling nlk.importResource.ImportResourceMod.addMenus()
+Calling nlk.profile.ProfileMod.addMenus()
+Calling nlk.help.HelpMod.addMenus()
+Calling nlk.resourceLockMod.ResourceLockMod.addMenus()
+Calling nlk.resourceManager.ResourceManagerMod.addMenus()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.addMenus()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.addMenus()
+Calling nlk.spellChecker.SpellCheckerMod.addMenus()
+Calling nlk.styleSheets.StyleSheetMod.addMenus()
+Calling nlk.history.HistoryMod.addMenus()
+Calling nlk.navtool.CMapNavToolMod.addMenus()
+Calling nlk.xml.CXLMod.addMenus()
+Calling nlk.xml.XMLMod.addMenus()
+Calling nlk.xml.IVMLMod.addMenus()
+Calling nlk.autosave.AutoSaveMod.addMenus()
+Calling nlk.placeManager.PlaceManagerMod.addMenus()
+Calling nlk.indexer.IndexerMod.addMenus()
+Calling nlk.indexer.SearchMod.addMenus()
+Calling nlk.linkvalidator.LinkValidatorMod.addMenus()
+Calling nlk.dtclient.DTClientMod.addMenus()
+Calling nlk.htmlexport.HTMLExportMod.addMenus()
+Calling nlk.comment.CommentMod.addMenus()
+Calling nlk.findTool.FindToolMod.addMenus()
+FindToolMod: Edit menu already created in CMapWnd
+Calling nlk.triple.TripleMod.addMenus()
+Calling nlk.annotate.AnnotateMod.addMenus()
+Calling nlk.synCollab.client.CollaborationMod.addMenus()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.addMenus()
+Calling nlk.netConfig.NetConfigMod.addMenus()
+Calling nlk.compare.CompareMod.addMenus()
+Calling nlk.presentation.PresentationMod.addMenus()
+Calling nlk.mapHistory.MapHistoryMod.addMenus()
+Calling nlk.wordnet.wordnetMod.WordnetMod.addMenus()
+Calling nlk.bigChanges.BigChangesMod.addMenus()
+Calling nlk.locale.LocaleMod.addMenus()
+Calling nlk.soup.client.SoupClientMod.addMenus()
+Calling nlk.soup.editor.SoupEditorMod.addMenus()
+Calling nlk.listView.ListViewMod.addMenus()
+Calling nlk.searchView.SearchViewMod.addMenus()
+--------------------------------------
+Calling nlk.basic.BasicMod.addEvtHandlers()
+Calling nlk.bigNodes.BigNodesMod.addEvtHandlers()
+Calling nlk.autolayout.AutolayoutMod.addEvtHandlers()
+Calling nlk.cmap.CMapEditMod.addEvtHandlers()
+Calling nlk.cmap.CMapKeyboardTraversalMod.addEvtHandlers()
+Calling nlk.cmap.CMapRenderMod.addEvtHandlers()
+Calling nlk.cmap.CMapViewerMod.addEvtHandlers()
+Calling nlk.cmap.CMapPropositionMod.addEvtHandlers()
+Calling nlk.cmap.CMapExportMod.addEvtHandlers()
+Calling nlk.cmap.CMapPrintingMod.addEvtHandlers()
+Calling nlk.export.ImageExportMod.addEvtHandlers()
+Calling nlk.export.DocumentExportMod.addEvtHandlers()
+Calling nlk.cmapEventLog.CMapEventLogMod.addEvtHandlers()
+Calling nlk.folderBrowser.FolderBrowserMod.addEvtHandlers()
+Calling nlk.importResource.ImportResourceMod.addEvtHandlers()
+Calling nlk.profile.ProfileMod.addEvtHandlers()
+Calling nlk.help.HelpMod.addEvtHandlers()
+Calling nlk.resourceLockMod.ResourceLockMod.addEvtHandlers()
+Calling nlk.resourceManager.ResourceManagerMod.addEvtHandlers()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.addEvtHandlers()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.addEvtHandlers()
+Calling nlk.spellChecker.SpellCheckerMod.addEvtHandlers()
+Calling nlk.styleSheets.StyleSheetMod.addEvtHandlers()
+Calling nlk.history.HistoryMod.addEvtHandlers()
+Calling nlk.navtool.CMapNavToolMod.addEvtHandlers()
+Calling nlk.xml.CXLMod.addEvtHandlers()
+Calling nlk.xml.XMLMod.addEvtHandlers()
+Calling nlk.xml.IVMLMod.addEvtHandlers()
+Calling nlk.autosave.AutoSaveMod.addEvtHandlers()
+Calling nlk.placeManager.PlaceManagerMod.addEvtHandlers()
+Calling nlk.indexer.IndexerMod.addEvtHandlers()
+Calling nlk.indexer.SearchMod.addEvtHandlers()
+Calling nlk.linkvalidator.LinkValidatorMod.addEvtHandlers()
+Calling nlk.dtclient.DTClientMod.addEvtHandlers()
+Calling nlk.htmlexport.HTMLExportMod.addEvtHandlers()
+Calling nlk.comment.CommentMod.addEvtHandlers()
+Calling nlk.findTool.FindToolMod.addEvtHandlers()
+Calling nlk.triple.TripleMod.addEvtHandlers()
+Calling nlk.annotate.AnnotateMod.addEvtHandlers()
+Calling nlk.synCollab.client.CollaborationMod.addEvtHandlers()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.addEvtHandlers()
+Calling nlk.netConfig.NetConfigMod.addEvtHandlers()
+Calling nlk.compare.CompareMod.addEvtHandlers()
+Calling nlk.presentation.PresentationMod.addEvtHandlers()
+Calling nlk.mapHistory.MapHistoryMod.addEvtHandlers()
+Calling nlk.wordnet.wordnetMod.WordnetMod.addEvtHandlers()
+Calling nlk.bigChanges.BigChangesMod.addEvtHandlers()
+Calling nlk.locale.LocaleMod.addEvtHandlers()
+Calling nlk.soup.client.SoupClientMod.addEvtHandlers()
+Calling nlk.soup.editor.SoupEditorMod.addEvtHandlers()
+Calling nlk.listView.ListViewMod.addEvtHandlers()
+Calling nlk.searchView.SearchViewMod.addEvtHandlers()
+--------------------------------------
+Calling nlk.basic.BasicMod.addDSInstances()
+Calling nlk.bigNodes.BigNodesMod.addDSInstances()
+Calling nlk.autolayout.AutolayoutMod.addDSInstances()
+Calling nlk.cmap.CMapEditMod.addDSInstances()
+Calling nlk.cmap.CMapKeyboardTraversalMod.addDSInstances()
+Calling nlk.cmap.CMapRenderMod.addDSInstances()
+Calling nlk.cmap.CMapViewerMod.addDSInstances()
+Calling nlk.cmap.CMapPropositionMod.addDSInstances()
+Calling nlk.cmap.CMapExportMod.addDSInstances()
+Calling nlk.cmap.CMapPrintingMod.addDSInstances()
+Calling nlk.export.ImageExportMod.addDSInstances()
+Calling nlk.export.DocumentExportMod.addDSInstances()
+Calling nlk.cmapEventLog.CMapEventLogMod.addDSInstances()
+Calling nlk.folderBrowser.FolderBrowserMod.addDSInstances()
+Calling nlk.importResource.ImportResourceMod.addDSInstances()
+Calling nlk.profile.ProfileMod.addDSInstances()
+Calling nlk.help.HelpMod.addDSInstances()
+Calling nlk.resourceLockMod.ResourceLockMod.addDSInstances()
+Calling nlk.resourceManager.ResourceManagerMod.addDSInstances()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.addDSInstances()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.addDSInstances()
+Calling nlk.spellChecker.SpellCheckerMod.addDSInstances()
+Calling nlk.styleSheets.StyleSheetMod.addDSInstances()
+Calling nlk.history.HistoryMod.addDSInstances()
+Calling nlk.navtool.CMapNavToolMod.addDSInstances()
+Calling nlk.xml.CXLMod.addDSInstances()
+Calling nlk.xml.XMLMod.addDSInstances()
+Calling nlk.xml.IVMLMod.addDSInstances()
+Calling nlk.autosave.AutoSaveMod.addDSInstances()
+Calling nlk.placeManager.PlaceManagerMod.addDSInstances()
+Calling nlk.indexer.IndexerMod.addDSInstances()
+Calling nlk.indexer.SearchMod.addDSInstances()
+Calling nlk.linkvalidator.LinkValidatorMod.addDSInstances()
+Calling nlk.dtclient.DTClientMod.addDSInstances()
+Calling nlk.htmlexport.HTMLExportMod.addDSInstances()
+Calling nlk.comment.CommentMod.addDSInstances()
+Calling nlk.findTool.FindToolMod.addDSInstances()
+Calling nlk.triple.TripleMod.addDSInstances()
+Calling nlk.annotate.AnnotateMod.addDSInstances()
+Calling nlk.synCollab.client.CollaborationMod.addDSInstances()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.addDSInstances()
+Calling nlk.netConfig.NetConfigMod.addDSInstances()
+Calling nlk.compare.CompareMod.addDSInstances()
+Calling nlk.presentation.PresentationMod.addDSInstances()
+Calling nlk.mapHistory.MapHistoryMod.addDSInstances()
+Calling nlk.wordnet.wordnetMod.WordnetMod.addDSInstances()
+Calling nlk.bigChanges.BigChangesMod.addDSInstances()
+Calling nlk.locale.LocaleMod.addDSInstances()
+Calling nlk.soup.client.SoupClientMod.addDSInstances()
+Calling nlk.soup.editor.SoupEditorMod.addDSInstances()
+Calling nlk.listView.ListViewMod.addDSInstances()
+Calling nlk.searchView.SearchViewMod.addDSInstances()
+--------------------------------------
+Calling nlk.basic.BasicMod.getFromCore()
+Calling nlk.bigNodes.BigNodesMod.getFromCore()
+Calling nlk.autolayout.AutolayoutMod.getFromCore()
+Calling nlk.cmap.CMapEditMod.getFromCore()
+Calling nlk.cmap.CMapKeyboardTraversalMod.getFromCore()
+Calling nlk.cmap.CMapRenderMod.getFromCore()
+Calling nlk.cmap.CMapViewerMod.getFromCore()
+Calling nlk.cmap.CMapPropositionMod.getFromCore()
+Calling nlk.cmap.CMapExportMod.getFromCore()
+Calling nlk.cmap.CMapPrintingMod.getFromCore()
+Calling nlk.export.ImageExportMod.getFromCore()
+Calling nlk.export.DocumentExportMod.getFromCore()
+Calling nlk.cmapEventLog.CMapEventLogMod.getFromCore()
+Calling nlk.folderBrowser.FolderBrowserMod.getFromCore()
+Calling nlk.importResource.ImportResourceMod.getFromCore()
+Calling nlk.profile.ProfileMod.getFromCore()
+Calling nlk.help.HelpMod.getFromCore()
+Calling nlk.resourceLockMod.ResourceLockMod.getFromCore()
+Calling nlk.resourceManager.ResourceManagerMod.getFromCore()
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.getFromCore()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.getFromCore()
+Calling nlk.spellChecker.SpellCheckerMod.getFromCore()
+Calling nlk.styleSheets.StyleSheetMod.getFromCore()
+Calling nlk.history.HistoryMod.getFromCore()
+Calling nlk.navtool.CMapNavToolMod.getFromCore()
+Calling nlk.xml.CXLMod.getFromCore()
+Calling nlk.xml.XMLMod.getFromCore()
+Calling nlk.xml.IVMLMod.getFromCore()
+Calling nlk.autosave.AutoSaveMod.getFromCore()
+Calling nlk.placeManager.PlaceManagerMod.getFromCore()
+[ServiceManager] loadServices: cmapclientservices.jar
+[ServiceManager] STARTING nlk.indexer.IndexChangeService
+[21/dic/2023:11:27:16] ICS::IndexChangeService::<init>: 
+[21/dic/2023:11:27:16] SLP: Multicast address: /239.255.255.253
+[21/dic/2023:11:27:16] SLP: Broadcast address: /255.255.255.255
+[21/dic/2023:11:27:16] SLP: (UA) starting USER AGENT
+[21/dic/2023:11:27:16] SLP: Checking static list of DAs
+[21/dic/2023:11:27:16] SLP: Checking static list of DAs
+RequestSender:<static initializer>: Starting CommHelper pool timeout task.
+[21/dic/2023:11:27:16] ICS::FindIndexServers::getInstance: Returning _this == nlk.indexer.FindIndexServers@50eaa935
+Rule file does not exist, so create it.
+[ServiceManager] loadServices: initService (IndexChangeService) succeeded!
+[ServiceManager] STARTING nlk.resio.ResourceService
+[ServiceManager] loadServices: initService (Resource) succeeded!
+[ServiceManager] Running Services:
+[ServiceManager] -----------------------------------------------------
+[ServiceManager] IndexChangeService
+[ServiceManager] Resource
+[ServiceManager] -----------------------------------------------------
+[ServiceManager] There are not stopped services on this server.
+[ServiceManager] All services were successfully initialized.
+PS::<init>: generateThumbnailsString == true
+PS::<init>: eraseThumbnailsString == false
+PS::<init>: We will not erase any thumbnails; we will regenerate any missing thumbnails and generate any new ones during a Save.
+PS::<init>: We will not save java-serialized cmap parts as XML.
+PS::<init>: We will not do a back-and-forth verification when saving a Cmap part as XML.
+PS::<init>: Trying to load EmptyCmapThumbnail.gif
+PS::<init>: Successfully loaded EmptyCmapThumbnail.gif
+Request read timeout = 30000
+Persistent connection lifetime = 10000
+Concurrent client limit = 10
+Server socket backlog = 0
+PlaceManagerMod::initLocalServer: LocalServer started on port: 4448
+Project static initializer: Checking for command line property of the form:
+   -Duser.authentication=authentication.ldap
+   -Duser.authentication=authentication.standard
+   -Duser.authentication=authentication.standard,authentication.ldap
+   etc.
+System.getProperties().getProperty ("user.authentication") returned null
+Since null is not a valid value, we will set user.authentication to the default value of authentication.standard
+PM::init: The root folder path is C:\Users\aulainformatica\Documents\My Cmaps
+InitUtils::ensureRootFolderExists: root folder C:\Users\aulainformatica\Documents\My Cmaps already exists. Don't have to create it.
+InitUtils::ensureRootFolderExists: project.idx does not already exist in root folder C:\Users\aulainformatica\Documents\My Cmaps
+InitUtils::ensureRootFolderExists: We will eventually be creating the project.idx in root folder C:\Users\aulainformatica\Documents\My Cmaps
+InitUtils::ensureRootFolderExists: Before calling addExtraAdminEntriesFromConfigFile, pai.getNumberOfAdminPrincipals() == 0
+InitUtils::addExtraAdminEntriesFromConfigFile: value for key root.folder.account == admin
+InitUtils::addExtraAdminEntriesFromConfigFile: Standard Authentication is enabled, so we will remove account 'admin' if it exists and then re-add it with ADMIN perms and with the new password.
+InitUtils::addExtraAdminEntriesFromConfigFile: Successfully added Standard account 'admin' with ADMIN permissions to the root folder.
+InitUtils::addExtraAdminEntriesFromConfigFile: rootFolderLDAPPasswordAlreadyEncrypted == false
+InitUtils::addExtraAdminEntriesFromConfigFile: ldapAdminAcct == null ldapAdminPwd == null ldapAuthenticationSupported == false
+InitUtils::ensureRootFolderExists: addExtraAdminEntriesFromConfigFile returned.
+InitUtils::ensureRootFolderExists: And now pai.getNumberOfAdminPrincipals() == 1
+InitUtils::ensureRootFolderExists: Adding read permission for guest
+InitUtils::ensureRootFolderExists: Calling saveProject for folder path C:\Users\aulainformatica\Documents\My Cmaps
+PM::saveProject: (C:\Users\aulainformatica\Documents\My Cmaps)
+PM::saveProject: We'll save to C:\Users\aulainformatica\Documents\My Cmaps\.project.idx and then rename it to C:\Users\aulainformatica\Documents\My Cmaps\project.idx
+PM::saveProject: Successfully opened tmpfile C:\Users\aulainformatica\Documents\My Cmaps\.project.idx
+PM::saveProject: Successfully saved Project to C:\Users\aulainformatica\Documents\My Cmaps\.project.idx
+PM::saveProject: Successfully deleted C:\Users\aulainformatica\Documents\My Cmaps\project.idx or it didn't exist; now rename C:\Users\aulainformatica\Documents\My Cmaps\.project.idx to C:\Users\aulainformatica\Documents\My Cmaps\project.idx
+PM::saveProject: Successfully renamed C:\Users\aulainformatica\Documents\My Cmaps\.project.idx to C:\Users\aulainformatica\Documents\My Cmaps\project.idx
+WriteInfo::getRootScratchDirectory: Successfully created Root scratch dir C:\Users\aulainformatica\Documents\My Cmaps\.temp
+PM::init: The root folder id in the root project.idx is 1ZX1Z4MLN-M5NYFY-Z
+PM::init: We are caching all folder TOCs.
+PM::init: Project cache size == 500
+Reindexer:<init>:: C:\Users\aulainformatica\Documents\My Cmaps
+PM::init: Reindexer finished in 0 millis.
+PM::init: Total Time Unzipping == 0
+PM::init: Building the list of resource indices.
+PM::init: Done Building the list of resource indices (16 millis)
+PM::init: Building the temporary resource table for the IndexService to use at startup.
+PM::init: Done Building the temporary resource table for the IndexService to use at startup (0 millis)
+PM::init: Notifying the IndexService that reindexing is complete.
+PM::init: Done  Notifying the IndexService that reindexing is complete. (0 millis)
+PM::init: Starting the ThumbnailGenerator.
+[21/dic/2023:11:27:16] ICS::IndexChangeService::IndexChangedListener::reindexingComplete: ++++++++++++++++++++++++++++++++++++++++++++++Reindexing is now complete++++++++++++++++++++++++++++++++++++++
+[21/dic/2023:11:27:16] ICS::IndexChangeService::IndexChangedListener::reindexingComplete: ++++++++++++++++++++++++++++++++++++++++++++++Thu Dec 21 11:27:16 COT 2023 
+
+GregTG::run: _executable == C:\Program Files\IHMC CmapTools\bin\imgman.exe
+GregTG::run: _envp == null
+Calling nlk.indexer.IndexerMod.getFromCore()
+Calling nlk.indexer.SearchMod.getFromCore()
+Calling nlk.linkvalidator.LinkValidatorMod.getFromCore()
+Calling nlk.dtclient.DTClientMod.getFromCore()
+Calling nlk.htmlexport.HTMLExportMod.getFromCore()
+Calling nlk.comment.CommentMod.getFromCore()
+Calling nlk.findTool.FindToolMod.getFromCore()
+Calling nlk.triple.TripleMod.getFromCore()
+Calling nlk.annotate.AnnotateMod.getFromCore()
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.annotate.AnnotateMod@41677471 with registrant name  annotationPartWriter with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.annotate.AnnotateMod@41677471 with registrant name  annotationPartReader with priority 0
+Calling nlk.synCollab.client.CollaborationMod.getFromCore()
+Calling nlk.cmapSidePanel.CMapSidePanelMod.getFromCore()
+Calling nlk.netConfig.NetConfigMod.getFromCore()
+Calling nlk.compare.CompareMod.getFromCore()
+Calling nlk.presentation.PresentationMod.getFromCore()
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.presentation.PresentationMod@772e7909 with registrant name  presentationPartWriter with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.presentation.PresentationMod@772e7909 with registrant name  presentationPartReader with priority 0
+Calling nlk.mapHistory.MapHistoryMod.getFromCore()
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.mapHistory.MapHistoryMod@75f432e with registrant name  mapHistoryPartWriter with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.mapHistory.MapHistoryMod@75f432e with registrant name  mapHistoryPartReader with priority 0
+Calling nlk.wordnet.wordnetMod.WordnetMod.getFromCore()
+Calling nlk.bigChanges.BigChangesMod.getFromCore()
+Calling nlk.locale.LocaleMod.getFromCore()
+Calling nlk.soup.client.SoupClientMod.getFromCore()
+Calling nlk.soup.editor.SoupEditorMod.getFromCore()
+Calling nlk.listView.ListViewMod.getFromCore()
+Calling nlk.searchView.SearchViewMod.getFromCore()
+--------------------------------------
+Calling nlk.basic.BasicMod.initCompleted()
+[21/dic/2023:11:27:16] ICS::CMIndex::init: ++++++++++ Initializing the Index +++++++++
+
+
+[21/dic/2023:11:27:16] ICS::CMIndex::initKeys: removeHiddenBeforeSend is false
+[21/dic/2023:11:27:16] ICS::CMIndex::initKeys: sendIncrementalUpdates is false
+[21/dic/2023:11:27:16] ICS::CMIndex::initKeys: sendIncrementalUpdates is false
+[21/dic/2023:11:27:16] ICS::CMIndex::isCurrentVersion: Looking for version file at C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\version
+[21/dic/2023:11:27:16] ICS::CMIndex::isCurrentVersion: CMIndex::Version file is not present, so rebuild index
+[21/dic/2023:11:27:16] ICS::CMIndex::init: Building new index because the version file does not exist or is outdated.
+[21/dic/2023:11:27:16] ICS::CMIndex::indexExists: Looking for index at C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\cmindex.luc
+[21/dic/2023:11:27:16] ICS::CMIndex::indexExists: Could not find the testfile at C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\cmindex.luc
+[21/dic/2023:11:27:16] ICS::CMIndex::indexExists: Could not find the indexreader file at C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\cmindex.luc
+[21/dic/2023:11:27:16] ICS::CMIndex::indexExists: Index directory is not present.  Resetting index...
+[21/dic/2023:11:27:16] ICS::CMIndex::init: Building new index because the index directory does not exist
+[21/dic/2023:11:27:16] ICS::CMIndex::clearLockFromDirectory: Checking index lock in directory C:\Users\AULAIN~1\AppData\Local\Temp\
+[21/dic/2023:11:27:16] ICS::CMIndex::clearLockFromDirectory: Checking index lock in directory C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\cmindex.luc
+[21/dic/2023:11:27:16] ICS::CMIndex::readTime: Could not read lastUpdate from C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\/lastUpdate.txt C:\Users\aulainformatica\AppData\Roaming\CmapTools\local\My Cmaps\lastUpdate.txt (El sistema no puede encontrar el archivo especificado)
+[21/dic/2023:11:27:16] ICS::CMIndex::reset: ++++++++++ Resetting the Index +++++++++
+reindexing C:\Users\aulainformatica\Documents\My Cmaps
+Reindexer:<init>:: C:\Users\aulainformatica\Documents\My Cmaps
+[21/dic/2023:11:27:16] ICS::CMIndex::init: Finished adding jobs to queues.
+[21/dic/2023:11:27:16] ICS::CMIndex::init: Finished with init.
+[21/dic/2023:11:27:16] ICS::IndexChangeService::IndexChangedListener::reindexingComplete: Integrity check is not needed. Index was just created.
+[21/dic/2023:11:27:16] ICS::IndexChangeService::IndexChangedListener::reindexingComplete: Resetting index, so ignoring file changes.
+[21/dic/2023:11:27:16] ICS::CMIndex::startWrite: Trying to acquire index write lock...
+[21/dic/2023:11:27:16] ICS::CMIndex::startWrite: Acquired index write lock for iw org.apache.lucene.index.IndexWriter@113a6ebb
+[21/dic/2023:11:27:16] ICS::CMIndex::finishWrite: Released index write lock for iw org.apache.lucene.index.IndexWriter@113a6ebb
+[21/dic/2023:11:27:16] ICS::JobScheduler::run: Starting Queue 0 with 4 threads and 1 elements to process.
+[21/dic/2023:11:27:16] ICS::DocumentBuilder::run: S Index-2 1ZX1Z4MLN-M5NYFY-Z  Starting document build for My Cmaps
+[21/dic/2023:11:27:16] ICS::DocumentBuilder::findOrCreateDoc: The "url" and "shorturl" fields will contain file:///C:/Users/aulainformatica/Documents/My Cmaps
+[21/dic/2023:11:27:16] ICS::DocumentBuilder::run: E Index-2 1ZX1Z4MLN-M5NYFY-Z Ending document build for My Cmaps
+GregTG::cleanOutTempFiles: Making the cleanup call to imgman to delete temp files that look like "magick*" and calling waitFor.
+GregTG::cleanOutTempFiles: Cleanup call to imgman returned 0
+GregTG::run: Instantiating Alarm
+GregAlarm::<init>: Alarm created.
+GregTG::run: Instantiated Alarm and started alarm. Calling ThumbnailList.getInstance()
+GregAlarm::run: Calling wait()
+GregTG::run: Thread[Thumbnail-Generator,2,main] has started.
+GregTG::run: The thumbnail stack is empty, so we will sleep for 10000 ms. and then try to get rid of any temp files mistakenly left behind by the image processing routines.
+GregTG::cleanOutTempFiles: Making the cleanup call to imgman to delete temp files that look like "magick*" and calling waitFor.
+GregTG::cleanOutTempFiles: Cleanup call to imgman returned 0
+[21/dic/2023:11:27:26] ICS::JobScheduler::run: Skipping Queue 1 with 1 threads and 0 elements to process.
+[21/dic/2023:11:27:26] ICS::JobScheduler::run: Skipping Queue 2 with 1 threads and 0 elements to process.
+[21/dic/2023:11:27:26] ICS::JobScheduler::run: Skipping Queue 3 with 1 threads and 0 elements to process.
+[21/dic/2023:11:27:26] ICS::CMIndex::startWrite: Trying to acquire index write lock...
+[21/dic/2023:11:27:26] ICS::CMIndex::startWrite: Acquired index write lock for iw org.apache.lucene.index.IndexWriter@113a6ebb
+[21/dic/2023:11:27:26] ICS::CMIndex::optimize: Starting optimize of index.
+[21/dic/2023:11:27:26] ICS::CMIndex::optimize: Done optimizing index.
+[21/dic/2023:11:27:26] ICS::CMIndex::finishWrite: Released index write lock for iw org.apache.lucene.index.IndexWriter@113a6ebb
+[21/dic/2023:11:27:26] ICS::JobScheduler::run: INDEXING COMPLETE: it took 10.049 seconds for 1 resources @ 0.09951238929246692 res/sec
+[21/dic/2023:11:27:26] SLP: a direct connection will be used with DA 184.182.233.158:80:8001
+[21/dic/2023:11:27:26] SLP: new directory agent: 184.182.233.158:80:8001
+RequestHandler::setDefaultSocketFactory: Trying to create an HCISocketCreator for classname us.ihmc.net.NormalSocketFactory
+RequestHandler::setDefaultSocketFactory: Successfully created an HCISocketCreator for classname us.ihmc.net.NormalSocketFactory
+RequestHandler::setDefaultSocketFactory: Trying to create an HCISocketCreator for classname us.ihmc.net.HTTPSockets.HTTPSocketFactory
+RequestHandler::setDefaultSocketFactory: Successfully created an HCISocketCreator for classname us.ihmc.net.HTTPSockets.HTTPSocketFactory
+Calling nlk.bigNodes.BigNodesMod.initCompleted()
+Calling nlk.autolayout.AutolayoutMod.initCompleted()
+Calling nlk.cmap.CMapEditMod.initCompleted()
+Calling nlk.cmap.CMapKeyboardTraversalMod.initCompleted()
+Calling nlk.cmap.CMapRenderMod.initCompleted()
+Calling nlk.cmap.CMapViewerMod.initCompleted()
+Calling nlk.cmap.CMapPropositionMod.initCompleted()
+Calling nlk.cmap.CMapExportMod.initCompleted()
+Calling nlk.cmap.CMapPrintingMod.initCompleted()
+A viewer for mimetype x-cmap/x-storable was registered
+=============>>>>>>>>>>>  Printing Mod has a handle to the CmapEditMod!!!!
+Calling nlk.export.ImageExportMod.initCompleted()
+Calling nlk.export.DocumentExportMod.initCompleted()
+Calling nlk.cmapEventLog.CMapEventLogMod.initCompleted()
+Calling nlk.folderBrowser.FolderBrowserMod.initCompleted()
+Got the favorites from the profile
+Got the favorites from a file
+HandleFBWndActivated:: window title = Vistas - CmapTools
+View pane changed
+posting vnse for Mis Cmaps
+Posting VNDeselectedEvt
+Voting on menu items for Mis Cmaps
+Calling nlk.importResource.ImportResourceMod.initCompleted()
+Calling nlk.profile.ProfileMod.initCompleted()
+Calling nlk.help.HelpMod.initCompleted()
+Calling nlk.resourceLockMod.ResourceLockMod.initCompleted()
+Calling nlk.resourceManager.ResourceManagerMod.initCompleted()
+ResourceManagerMod: initRawClient
+Res*Mod: successfully called initRawClient
+ResourceManager's PollingThread:
+++++ BasicMod: Starting file open listener. ++++
+OSFileListener: running thread.
+OSFileListener: listening for OS request.
+****************ResourceManagerMod.initRawClient: posting ResMngReadyEvt and returning
+XmlProfileHelper::<init>: workingDirectory == C:\Users\aulainformatica\AppData\Roaming\CmapTools
+XmlProfileHelper::<init>: Passwords cache filename == C:\Users\aulainformatica\AppData\Roaming\CmapTools\xmlconfig.xml
+XmlProfileHelper::<init>: Calling fixVer0VerIssue
+XmlProfileHelper::load: Nothing to fix in the passwords cache file.
+XmlProfileHelper::load: curMax == 0; call loadEmpty
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootResourceInfo
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootResourceInfo::Send reply::CLOSED: (0 ms.)
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootFolderId
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootFolderId::Send reply::CLOSED: (0 ms.)
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootResourceInfo
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootResourceInfo::Send reply::CLOSED: (0 ms.)
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootResourceInfo
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-1] (pseudo-socket) RS::handleHashtable: function == getRootFolderId
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-1] (pseudo-socket)::Resource::getRootFolderId::Send reply::CLOSED: (0 ms.)
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootResourceInfo::Send reply::CLOSED: (0 ms.)
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-1] (pseudo-socket) RS::handleHashtable: function == getRootResourceInfo
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-1] (pseudo-socket)::Resource::getRootResourceInfo::Send reply::CLOSED: (16 ms.)
+[21/dic/2023:11:27:58] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootFolderId
+[21/dic/2023:11:27:57] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootFolderId::Send reply::CLOSED: (16 ms.)
+Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.initCompleted()
+Calling nlk.resourceViewers.DefaultResourceViewerMod.initCompleted()
+[21/dic/2023:11:27:58] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getRootFolderId
+[21/dic/2023:11:27:58] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getRootFolderId::Send reply::CLOSED: (0 ms.)
+A viewer for mimetype image/jpeg was registered
+A viewer for mimetype image/gif was registered
+A viewer for mimetype image/x-png was registered
+A viewer for mimetype image/x-bmp was registered
+A viewer for mimetype image/tiff was registered
+A viewer for mimetype image/pict was registered
+[21/dic/2023:11:27:58] [ConnHandlerCache-1-Thread-0] (pseudo-socket) RS::handleHashtable: function == getFolderTOC
+A viewer for mimetype text/html was registered
+A viewer for mimetype text/x-url was registered
+A viewer for mimetype text/plain was registered
+A viewer for mimetype x-unknown/x-unknown was registered
+A viewer for mimetype video/x-msvideo was registered
+A viewer for mimetype video/quicktime was registered
+A viewer for mimetype video/x-ms-asf was registered
+A viewer for mimetype video/avi was registered
+A viewer for mimetype video/msvideo was registered
+A viewer for mimetype video/x-ms-wmv was registered
+[21/dic/2023:11:27:58] [ConnHandlerCache-1-Thread-0] (pseudo-socket)::Resource::getFolderTOC::Send SerializableObject::CLOSED::Sent 153 bytes: (0 ms.)
+A viewer for mimetype video/flc was registered
+A viewer for mimetype video/x-m4v was registered
+A viewer for mimetype video/mpeg was registered
+A viewer for mimetype video/x-mpeg was registered
+A viewer for mimetype video/mp4 was registered
+A viewer for mimetype audio/x-aiff was registered
+A viewer for mimetype audio/wav was registered
+A viewer for mimetype audio/x-wav was registered
+A viewer for mimetype video/x-dv was registered
+A viewer for mimetype audio/x-midi was registered
+A viewer for mimetype audio/mid was registered
+A viewer for mimetype audio/basic was registered
+A viewer for mimetype audio/aiff was registered
+Calling nlk.spellChecker.SpellCheckerMod.initCompleted()
+A viewer for mimetype audio/mp4 was registered
+A viewer for mimetype audio/x-gsm was registered
+A viewer for mimetype audio/x-sd2 was registered
+A viewer for mimetype audio/midi was registered
+A viewer for mimetype audio/mpeg3 was registered
+A viewer for mimetype audio/x-mp3 was registered
+A viewer for mimetype audio/mp3 was registered
+A viewer for mimetype x-nlk-alias/x-storable was registered
+posting vnse for Mis Cmaps
+A viewer for mimetype audio/x-mpeg was registered
+A viewer for mimetype audio/mpeg was registered
+A viewer for mimetype audio/x-mpegurl was registered
+A viewer for mimetype audio/mpegurl was registered
+A viewer for mimetype audio/x-mpeg3 was registered
+Voting on menu items for Mis Cmaps
+posting vnse for Mis Cmaps
+Voting on menu items for Mis Cmaps
+posting vnse for Mis Cmaps
+Voting on menu items for Mis Cmaps
+in updateFolder, numEntries = 0
+parent id = 1ZX1Z4M9G-1XQ0TY3-4, label: Mis Cmaps
+Trying to restore the tree view
+finished restoring
+View pane changed
+posting vnse for Mis Cmaps
+Voting on menu items for Mis Cmaps
+[DictionaryManager] found dictio: checo (Chequia)
+[DictionaryManager] found dictio: alemán (Alemania)
+[DictionaryManager] found dictio: inglés (Estados Unidos)
+[DictionaryManager] found dictio: español (España)
+[DictionaryManager] found dictio: finés (Finlandia)
+[DictionaryManager] found dictio: francés (Francia)
+[DictionaryManager] found dictio: italiano (Italia)
+[DictionaryManager] found dictio: portugués (Brasil)
+[DictionaryManager] found dictio: sueco (Suecia)
+Calling nlk.styleSheets.StyleSheetMod.initCompleted()
+(CLASS: org.apache.log4j.helpers.LogLog METHOD: warn LINE: 170)
+log4j:WARN No appenders could be found for logger (org.apache.commons.digester.Digester.sax).
+(CLASS: org.apache.log4j.helpers.LogLog METHOD: warn LINE: 170)
+log4j:WARN Please initialize the log4j system properly.
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Beige On Dark Green.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+***>>>JIMI: Using VMemJimiImageFactory! Created only instance to use.
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Beige On Dark Green.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Beige On White.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Beige On White.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Black On Gray.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Black On Gray.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Blue On Dark Blue.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Blue On Dark Blue.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Gray On White.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Gray On White.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Orange On Black.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Orange On Black.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On Dark Blue.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On Dark Blue.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On Light Blue.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On Light Blue.png
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On White.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\White On White.png
+Need to load the StyleSheet from : C:\Program Files\IHMC CmapTools\bin\DefaultStyleSheet.cxl
+
+***>>> Saving Map to Image File : [0]
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Predeterminado.png
+***>>>        areAllImagesRaterized = True
+***>>>        Unfinished Images [0]: 
+***>>>        Size = java.awt.Dimension[width=101,height=101]
+
+*** Trying in Memory Image because: 40804 bytes, is less than 1048576.
+***>>>   Finished Saving Map to Image File: 
+***>>>        C:\Users\aulainformatica\AppData\Roaming\CmapTools\templates\Predeterminado.png
+Calling nlk.history.HistoryMod.initCompleted()
+Calling nlk.navtool.CMapNavToolMod.initCompleted()
+Calling nlk.xml.CXLMod.initCompleted()
+Calling nlk.xml.XMLMod.initCompleted()
+Calling nlk.xml.IVMLMod.initCompleted()
+Calling nlk.autosave.AutoSaveMod.initCompleted()
+Calling nlk.placeManager.PlaceManagerMod.initCompleted()
+Calling nlk.indexer.IndexerMod.initCompleted()
+Done. 
+<Indexer Module> Hello. Init is completed.
+Calling nlk.indexer.SearchMod.initCompleted()
+Let's cache the server list...
+Done. 
+<Search Module> Hello. Init is completed.
+Calling nlk.linkvalidator.LinkValidatorMod.initCompleted()
+Calling nlk.dtclient.DTClientMod.initCompleted()
+A viewer for mimetype x-cdt/x-mbx was registered
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.dtclient.DTClientMod@214a33aa with registrant name  DTPartWriter with priority 0
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.dtclient.DTClientMod@214a33aa with registrant name  DTPartWriter with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.dtclient.DTClientMod@214a33aa with registrant name  DTPartReader with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.dtclient.DTClientMod@214a33aa with registrant name  DTPartReader with priority 0
+***>>> Registered New Trans RL MT: x-cdt/x-mbx
+Calling nlk.htmlexport.HTMLExportMod.initCompleted()
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.htmlexport.HTMLExportMod@6875a20c with registrant name  htmltextRegistrant with priority 0
+HMTLExportMod :: initCompleted: Registered my partWriter.
+Calling nlk.comment.CommentMod.initCompleted()
+Calling nlk.findTool.FindToolMod.initCompleted()
+Calling nlk.triple.TripleMod.initCompleted()
+Calling nlk.annotate.AnnotateMod.initCompleted()
+Calling nlk.synCollab.client.CollaborationMod.initCompleted()
+CollaborationUtils::detectCaptureDevice: about to detect devices
+Calling nlk.cmapSidePanel.CMapSidePanelMod.initCompleted()
+Calling nlk.netConfig.NetConfigMod.initCompleted()
+Calling nlk.compare.CompareMod.initCompleted()
+Calling nlk.presentation.PresentationMod.initCompleted()
+Calling nlk.mapHistory.MapHistoryMod.initCompleted()
+Calling nlk.wordnet.wordnetMod.WordnetMod.initCompleted()
+Calling nlk.bigChanges.BigChangesMod.initCompleted()
+Calling nlk.locale.LocaleMod.initCompleted()
+[LanguagePanel] Language property not found. Will check if the current OS language (es) is supported.
+[LanguagePanel] Language (es) is supported. Setting as the application language.
+[LanguagePanel] --->> Locale Mod:
+[LanguagePanel] comparing: en vs. es
+[LanguagePanel] comparing: it vs. es
+[LanguagePanel] comparing: pt vs. es
+[LanguagePanel] comparing: es vs. es
+Calling nlk.soup.client.SoupClientMod.initCompleted()
+RM::handlePartWriterRegistrationEvt: Registering partWriter nlk.soup.client.SoupClientMod@61a05acb with registrant name  soup_client_registrant with priority 0
+RM::handlePartReaderRegistrationEvt: Registering partReader nlk.soup.client.SoupClientMod@61a05acb with registrant name  soup_client_registrant with priority 0
+Calling nlk.soup.editor.SoupEditorMod.initCompleted()
+Calling nlk.listView.ListViewMod.initCompleted()
+Calling nlk.searchView.SearchViewMod.initCompleted()
+A viewer for mimetype x-soup/x-storable was registered
+--------------------------------------
+--------------------------------
+The registered window types are:
+LinkValidatorWnd
+FolderBrowserWnd
+SoupPropertiesWnd
+GenericResWnd
+DTWnd
+CMapWnd
+ComposeMessageWnd
+ResWnd
+HelpWnd
+SearchWnd
+--------------------------------
+CoreStarter :: Main returning.
+[21/dic/2023:11:27:58] SLP: next DA is mesh-enhanced: 184.182.233.158:80:8001
+[21/dic/2023:11:27:58] SLP: next DA is mesh-enhanced: 184.182.233.158:80:8001
+[21/dic/2023:11:27:58] SLP: next DA is mesh-enhanced: 184.182.233.158:80:8001
+[21/dic/2023:11:27:58] SLP: (UA) contacting DA: 184.182.233.158:80:8001
+[21/dic/2023:11:27:58] SLP: (UA) contacting DA: 184.182.233.158:80:8001
+[21/dic/2023:11:27:58] SLP: (UA) contacting DA: 184.182.233.158:80:8001
+posting vnse for Mis Cmaps
+Voting on menu items for Mis Cmaps
+posting vnse for Mis Cmaps
+Voting on menu items for Mis Cmaps
+*****************  Returning PageFormatAsString: pfs:1:612.0:792.0:18.0:18.0:576.0:756.0
+Core::terminate: You should eventually see a message saying that we are exiting.
+Core::terminate: Calling nlk.basic.BasicMod.preliminaryCleanup()
+Core::terminate: nlk.basic.BasicMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.bigNodes.BigNodesMod.preliminaryCleanup()
+Core::terminate: nlk.bigNodes.BigNodesMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.autolayout.AutolayoutMod.preliminaryCleanup()
+Core::terminate: nlk.autolayout.AutolayoutMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapEditMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapEditMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapKeyboardTraversalMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapKeyboardTraversalMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapRenderMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapRenderMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapViewerMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapViewerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapPropositionMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapPropositionMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapExportMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapExportMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapPrintingMod.preliminaryCleanup()
+Core::terminate: nlk.cmap.CMapPrintingMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.export.ImageExportMod.preliminaryCleanup()
+Core::terminate: nlk.export.ImageExportMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.export.DocumentExportMod.preliminaryCleanup()
+Core::terminate: nlk.export.DocumentExportMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmapEventLog.CMapEventLogMod.preliminaryCleanup()
+Core::terminate: nlk.cmapEventLog.CMapEventLogMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.folderBrowser.FolderBrowserMod.preliminaryCleanup()
+Core::terminate: nlk.folderBrowser.FolderBrowserMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.importResource.ImportResourceMod.preliminaryCleanup()
+Core::terminate: nlk.importResource.ImportResourceMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.profile.ProfileMod.preliminaryCleanup()
+Core::terminate: nlk.profile.ProfileMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.help.HelpMod.preliminaryCleanup()
+Core::terminate: nlk.help.HelpMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.resourceLockMod.ResourceLockMod.preliminaryCleanup()
+Core::terminate: nlk.resourceLockMod.ResourceLockMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.resourceManager.ResourceManagerMod.preliminaryCleanup()
+Core::terminate: nlk.resourceManager.ResourceManagerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.preliminaryCleanup()
+Core::terminate: nlk.resourceViewerFactory.ResourceViewerFactoryMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.resourceViewers.DefaultResourceViewerMod.preliminaryCleanup()
+Core::terminate: nlk.resourceViewers.DefaultResourceViewerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.spellChecker.SpellCheckerMod.preliminaryCleanup()
+Core::terminate: nlk.spellChecker.SpellCheckerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.styleSheets.StyleSheetMod.preliminaryCleanup()
+Core::terminate: nlk.styleSheets.StyleSheetMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.history.HistoryMod.preliminaryCleanup()
+Core::terminate: nlk.history.HistoryMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.navtool.CMapNavToolMod.preliminaryCleanup()
+Core::terminate: nlk.navtool.CMapNavToolMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.xml.CXLMod.preliminaryCleanup()
+Core::terminate: nlk.xml.CXLMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.xml.XMLMod.preliminaryCleanup()
+Core::terminate: nlk.xml.XMLMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.xml.IVMLMod.preliminaryCleanup()
+Core::terminate: nlk.xml.IVMLMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.autosave.AutoSaveMod.preliminaryCleanup()
+Core::terminate: nlk.autosave.AutoSaveMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.placeManager.PlaceManagerMod.preliminaryCleanup()
+Core::terminate: nlk.placeManager.PlaceManagerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.indexer.IndexerMod.preliminaryCleanup()
+Core::terminate: nlk.indexer.IndexerMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.indexer.SearchMod.preliminaryCleanup()
+Core::terminate: nlk.indexer.SearchMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.linkvalidator.LinkValidatorMod.preliminaryCleanup()
+Core::terminate: nlk.linkvalidator.LinkValidatorMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.dtclient.DTClientMod.preliminaryCleanup()
+Core::terminate: nlk.dtclient.DTClientMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.htmlexport.HTMLExportMod.preliminaryCleanup()
+Core::terminate: nlk.htmlexport.HTMLExportMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.comment.CommentMod.preliminaryCleanup()
+Core::terminate: nlk.comment.CommentMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.findTool.FindToolMod.preliminaryCleanup()
+Core::terminate: nlk.findTool.FindToolMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.triple.TripleMod.preliminaryCleanup()
+Core::terminate: nlk.triple.TripleMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.annotate.AnnotateMod.preliminaryCleanup()
+Core::terminate: nlk.annotate.AnnotateMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.synCollab.client.CollaborationMod.preliminaryCleanup()
+Core::terminate: nlk.synCollab.client.CollaborationMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.cmapSidePanel.CMapSidePanelMod.preliminaryCleanup()
+Core::terminate: nlk.cmapSidePanel.CMapSidePanelMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.netConfig.NetConfigMod.preliminaryCleanup()
+Core::terminate: nlk.netConfig.NetConfigMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.compare.CompareMod.preliminaryCleanup()
+Core::terminate: nlk.compare.CompareMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.presentation.PresentationMod.preliminaryCleanup()
+Core::terminate: nlk.presentation.PresentationMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.mapHistory.MapHistoryMod.preliminaryCleanup()
+Core::terminate: nlk.mapHistory.MapHistoryMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.wordnet.wordnetMod.WordnetMod.preliminaryCleanup()
+Core::terminate: nlk.wordnet.wordnetMod.WordnetMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.bigChanges.BigChangesMod.preliminaryCleanup()
+Core::terminate: nlk.bigChanges.BigChangesMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.locale.LocaleMod.preliminaryCleanup()
+Core::terminate: nlk.locale.LocaleMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.soup.client.SoupClientMod.preliminaryCleanup()
+Core::terminate: nlk.soup.client.SoupClientMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.soup.editor.SoupEditorMod.preliminaryCleanup()
+Core::terminate: nlk.soup.editor.SoupEditorMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.listView.ListViewMod.preliminaryCleanup()
+Core::terminate: nlk.listView.ListViewMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.searchView.SearchViewMod.preliminaryCleanup()
+Core::terminate: nlk.searchView.SearchViewMod.preliminaryCleanup() + returned.
+Core::terminate: Calling nlk.basic.BasicMod.finalCleanup()
+Core::terminate: nlk.basic.BasicMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.bigNodes.BigNodesMod.finalCleanup()
+Core::terminate: nlk.bigNodes.BigNodesMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.autolayout.AutolayoutMod.finalCleanup()
+Core::terminate: nlk.autolayout.AutolayoutMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapEditMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapEditMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapKeyboardTraversalMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapKeyboardTraversalMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapRenderMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapRenderMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapViewerMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapViewerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapPropositionMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapPropositionMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapExportMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapExportMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmap.CMapPrintingMod.finalCleanup()
+Core::terminate: nlk.cmap.CMapPrintingMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.export.ImageExportMod.finalCleanup()
+Core::terminate: nlk.export.ImageExportMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.export.DocumentExportMod.finalCleanup()
+Core::terminate: nlk.export.DocumentExportMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmapEventLog.CMapEventLogMod.finalCleanup()
+Core::terminate: nlk.cmapEventLog.CMapEventLogMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.folderBrowser.FolderBrowserMod.finalCleanup()
+Core::terminate: nlk.folderBrowser.FolderBrowserMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.importResource.ImportResourceMod.finalCleanup()
+Core::terminate: nlk.importResource.ImportResourceMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.profile.ProfileMod.finalCleanup()
+Core::terminate: nlk.profile.ProfileMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.help.HelpMod.finalCleanup()
+Core::terminate: nlk.help.HelpMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.resourceLockMod.ResourceLockMod.finalCleanup()
+Core::terminate: nlk.resourceLockMod.ResourceLockMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.resourceManager.ResourceManagerMod.finalCleanup()
+Core::terminate: nlk.resourceManager.ResourceManagerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.resourceViewerFactory.ResourceViewerFactoryMod.finalCleanup()
+Core::terminate: nlk.resourceViewerFactory.ResourceViewerFactoryMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.resourceViewers.DefaultResourceViewerMod.finalCleanup()
+Core::terminate: nlk.resourceViewers.DefaultResourceViewerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.spellChecker.SpellCheckerMod.finalCleanup()
+Core::terminate: nlk.spellChecker.SpellCheckerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.styleSheets.StyleSheetMod.finalCleanup()
+Core::terminate: nlk.styleSheets.StyleSheetMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.history.HistoryMod.finalCleanup()
+Core::terminate: nlk.history.HistoryMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.navtool.CMapNavToolMod.finalCleanup()
+Core::terminate: nlk.navtool.CMapNavToolMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.xml.CXLMod.finalCleanup()
+Core::terminate: nlk.xml.CXLMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.xml.XMLMod.finalCleanup()
+Core::terminate: nlk.xml.XMLMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.xml.IVMLMod.finalCleanup()
+Core::terminate: nlk.xml.IVMLMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.autosave.AutoSaveMod.finalCleanup()
+Core::terminate: nlk.autosave.AutoSaveMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.placeManager.PlaceManagerMod.finalCleanup()
+Core::terminate: nlk.placeManager.PlaceManagerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.indexer.IndexerMod.finalCleanup()
+Core::terminate: nlk.indexer.IndexerMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.indexer.SearchMod.finalCleanup()
+Core::terminate: nlk.indexer.SearchMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.linkvalidator.LinkValidatorMod.finalCleanup()
+Core::terminate: nlk.linkvalidator.LinkValidatorMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.dtclient.DTClientMod.finalCleanup()
+Core::terminate: nlk.dtclient.DTClientMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.htmlexport.HTMLExportMod.finalCleanup()
+Core::terminate: nlk.htmlexport.HTMLExportMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.comment.CommentMod.finalCleanup()
+Core::terminate: nlk.comment.CommentMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.findTool.FindToolMod.finalCleanup()
+Core::terminate: nlk.findTool.FindToolMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.triple.TripleMod.finalCleanup()
+Core::terminate: nlk.triple.TripleMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.annotate.AnnotateMod.finalCleanup()
+Core::terminate: nlk.annotate.AnnotateMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.synCollab.client.CollaborationMod.finalCleanup()
+Core::terminate: nlk.synCollab.client.CollaborationMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.cmapSidePanel.CMapSidePanelMod.finalCleanup()
+Core::terminate: nlk.cmapSidePanel.CMapSidePanelMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.netConfig.NetConfigMod.finalCleanup()
+Core::terminate: nlk.netConfig.NetConfigMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.compare.CompareMod.finalCleanup()
+Core::terminate: nlk.compare.CompareMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.presentation.PresentationMod.finalCleanup()
+Core::terminate: nlk.presentation.PresentationMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.mapHistory.MapHistoryMod.finalCleanup()
+Core::terminate: nlk.mapHistory.MapHistoryMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.wordnet.wordnetMod.WordnetMod.finalCleanup()
+Core::terminate: nlk.wordnet.wordnetMod.WordnetMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.bigChanges.BigChangesMod.finalCleanup()
+Core::terminate: nlk.bigChanges.BigChangesMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.locale.LocaleMod.finalCleanup()
+Core::terminate: nlk.locale.LocaleMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.soup.client.SoupClientMod.finalCleanup()
+Core::terminate: nlk.soup.client.SoupClientMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.soup.editor.SoupEditorMod.finalCleanup()
+Core::terminate: nlk.soup.editor.SoupEditorMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.listView.ListViewMod.finalCleanup()
+Core::terminate: nlk.listView.ListViewMod.finalCleanup() + returned.
+Core::terminate: Calling nlk.searchView.SearchViewMod.finalCleanup()
+Core::terminate: nlk.searchView.SearchViewMod.finalCleanup() + returned.
+Core::terminate: will try to exit now.
+CoreImp::Core.terminate: exiting.
